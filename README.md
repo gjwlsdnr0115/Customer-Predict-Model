@@ -1,2 +1,2 @@
 # Customer-Predict-Model
-Predicting if a customer will visit an online store from card data.
+Predicting probability of customer visitation for online stores.
